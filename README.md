@@ -7,6 +7,8 @@
 
 <h2>:memo: Acesso ao projeto</h2>
 
+https://jogo-do-numero-secreto-beta-umber.vercel.app/
+
 <h2>:memo: Tecnologias utilizadas</h2>
 
 :computer: ![Badge HTML](https://img.shields.io/badge/HTML-8A2BE2)
