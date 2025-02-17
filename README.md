@@ -3,7 +3,7 @@
 <p>Status do projeto: Concluído :heavy_check_mark:</p>
 
 <h2>:memo: Descrição do projeto </h2>
-<p>Meu primeiro projeto, criado a partir das aulas de lógica de programação da Alura. Nele, você precisa adivinhar o número secreto atráves de poucos palpites.</p>
+<p>Meu primeiro projeto, criado a partir das aulas de lógica de programação da Alura. Nele, você precisa adivinhar o número secreto através de poucos palpites.</p>
 
 <h2>:memo: Acesso ao projeto</h2>
 
